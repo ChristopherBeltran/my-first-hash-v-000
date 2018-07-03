@@ -1,5 +1,5 @@
 def my_hash
-  this
+  this_hash = {"movie" => "FightClub"}
   
 end
 
